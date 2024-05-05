@@ -36,7 +36,7 @@ Contributions are welcome! Please follow these steps to contribute to EasyRent:
 6. Create a new Pull Request
    
 <h1>License</h1>
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the <a href="/LICENSE.txt"> LICENSE </a> file for details.
 
 <h1>Image Copyright Claims</h1>
 Many images used in the project belong to their respective creators/authors. No claim by me!
