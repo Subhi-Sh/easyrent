@@ -1,13 +1,14 @@
-EasyRent
+# EasyRent
+
 EasyRent is a platform that simplifies the process of renting cars. It allows users to easily find and rent cars from a variety of providers.
 
-Installation
+## Installation
+
 To install EasyRent, follow these steps:
 
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/Subhi-Sh/easyrent.git
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Subhi-Sh/easyrent.git
 Install dependencies:
 sh
 Copy code
@@ -32,3 +33,4 @@ Create a new Pull Request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+Contact
