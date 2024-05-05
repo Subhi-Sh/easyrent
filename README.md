@@ -10,6 +10,6 @@ To install EasyRent, follow these steps:
    ```sh
    git clone https://github.com/Subhi-Sh/easyrent.git
 Install dependencies:
-sh
+```sh
 Copy code
 npm install
