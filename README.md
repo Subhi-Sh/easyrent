@@ -13,24 +13,3 @@ Install dependencies:
 sh
 Copy code
 npm install
-Usage
-To use EasyRent, follow these steps:
-
-Start the server:
-sh
-Copy code
-npm start
-Open your browser and navigate to http://localhost:3000.
-Contributing
-Contributions are welcome! Please follow these steps to contribute to EasyRent:
-
-Fork the repository
-Create a new branch (git checkout -b feature)
-Make your changes
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature)
-Create a new Pull Request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
